@@ -15,7 +15,7 @@ public class RegionConfiguration : IEntityTypeConfiguration<Region>
 
         builder.Property(p => p.nombreRegion)
         .IsRequired()
-        .HasMaxLength(100);
+        .HasMaxLength(50);
 
         builder.HasOne(p => p.Estado)
         .WithMany(e => e.Regiones)

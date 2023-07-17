@@ -8,4 +8,5 @@ public class Region
     public string ? nombreRegion { get; set; }
     public string ? codEstado { get; set; }
     public Estado ? Estado { get; set; }
+    public ICollection<Persona> ? Personas { get; set; }
 }

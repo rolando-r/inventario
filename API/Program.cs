@@ -1,11 +1,11 @@
+using API.Extensions;
 using Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
-
-// Add services to the container.
-
+builder.Services.ConfigureCors();
 builder.Services.AddControllers();
+
 builder.Services.AddDbContext<InventarioContext>(optionsBuilder =>
 {
 string ? connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
@@ -23,6 +23,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+app.UseCors("CorsPolicy");
 
 app.UseHttpsRedirection();
 
