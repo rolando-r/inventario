@@ -12,4 +12,5 @@ public class Persona
     public TipoPersona ? TipoPersona { get; set; }
     public string ? IdRegion { get; set; }
     public Region ? Region { get; set; }
+    public ICollection<PersonaProducto>? PersonaProductos { get; set;}
 }

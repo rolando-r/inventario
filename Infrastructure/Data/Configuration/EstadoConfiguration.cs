@@ -7,7 +7,7 @@ public class EstadoConfiguration : IEntityTypeConfiguration<Estado>
 {
     public void Configure(EntityTypeBuilder<Estado> builder)
     {
-        builder.ToTable("Estado");
+        builder.ToTable("Estados");
 
         builder.HasKey(p => p.codEstado);
         builder.Property(p => p.codEstado)

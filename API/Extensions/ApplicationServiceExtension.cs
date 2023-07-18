@@ -1,3 +1,7 @@
+using Core.Interfaces;
+using Infrastructure.Repository;
+using Infrastructure.UnitOfWork;
+
 namespace API.Extensions;
 public static class ApplicationServiceExtension
 {
@@ -9,4 +13,8 @@ public static class ApplicationServiceExtension
             .AllowAnyMethod()
             .AllowAnyHeader());
         });
+    public static void AddApplicationServices(this IServiceCollection services){
+        //services.AddScoped<ITipoPersona,TipoPersonaRepository>();
+        //services.AddScoped<IUnitOfWork,UnitOfWork>();
+    }
 }

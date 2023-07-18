@@ -5,6 +5,7 @@ using Microsoft.EntityFrameworkCore;
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.ConfigureCors();
 builder.Services.AddControllers();
+builder.Services.AddApplicationServices();
 
 builder.Services.AddDbContext<InventarioContext>(optionsBuilder =>
 {

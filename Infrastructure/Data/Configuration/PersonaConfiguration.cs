@@ -8,11 +8,15 @@ public class PersonaConfiguration : IEntityTypeConfiguration<Persona>
 {
     public void Configure(EntityTypeBuilder<Persona> builder)
     {
-        builder.ToTable("Persona");
+        builder.ToTable("Personas");
 
         builder.HasKey(p => p.IdPersona);
         builder.Property(p => p.IdPersona)
         .ValueGeneratedNever();
+
+        builder.Property(p => p.NombrePersona)
+        .IsRequired()
+        .HasMaxLength(50);
 
         builder.Property(p => p.ApellidosPersona)
         .IsRequired()
