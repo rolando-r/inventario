@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PwwMz/6K9IxQcIrqhU0vFp+qWjHhK4g0eUG01PHbrr44gaEHFL41GbGEgNh2gv/gb9tenXlj9zZEu/FAr2dpyQ==",
+  "dgSpecHash": "iQifJEN8DdAXcxDI24FuUS2lOrQyPaCz+QNdDUeLFpdCqf+b50SWkusveAI9rpNZvM06zLADWylVND6LY+4eXA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\roola\\OneDrive\\Escritorio\\Programación\\Proyectos Campus\\CSharp\\inventario\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\roola\\OneDrive\\Escritorio\\Programación\\Proyectos Campus\\CSharp\\inventario\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\roola\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\roola\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.9\\microsoft.aspnetcore.openapi.7.0.9.nupkg.sha512",

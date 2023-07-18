@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IrK/knq6k8NfT11u82xfWuga8OMetmKvVA82cal0LBgwqkw45qSHjxKxRidSZ9LYhfvWgj3bCAYpr9MEyZ7XAg==",
+  "dgSpecHash": "j+ZJL6ej2ketov+Qw9kDBTaB0EeLMTvdPZHe4DdAu7TUKqV/PgSrrGmarUwIW9ErJN2mM2tKYsu33L/p4VotvQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\roola\\OneDrive\\Escritorio\\Programación\\Proyectos Campus\\CSharp\\inventario\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\roola\\OneDrive\\Escritorio\\Programación\\Proyectos Campus\\CSharp\\inventario\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\roola\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.9\\microsoft.entityframeworkcore.7.0.9.nupkg.sha512",
     "C:\\Users\\roola\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.9\\microsoft.entityframeworkcore.abstractions.7.0.9.nupkg.sha512",
