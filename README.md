@@ -26,13 +26,13 @@ To deploy this project run
 Clone the project
 
 ```bash
-  git clone https://github.com/rolando-r/citas/
+  git clone https://github.com/rolando-r/inventario/
 ```
 
 Go to the project directory
 
 ```bash
-  cd citas
+  cd inventario
 ```
 
 Install dependencies
