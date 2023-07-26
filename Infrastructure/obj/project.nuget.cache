@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NkYIOxj7Wybhz9LSwGYUz4QtEZ5ZBMwL2ZwisXYbUaxWQ6AnuXmpb9QMZoihY/qOUVGLlyWLPS1N2c47/0yoWw==",
+  "dgSpecHash": "3gqB7k/5LrBQMGmcMqvm8368tCECH6RTtcd9HEUVJQPPA81I9JBchF3HU5X2usZAAPAn4wKhy457NiEeHz3NJg==",
   "success": true,
-  "projectFilePath": "/home/apolm01-021/Desktop/inventario/Infrastructure/Infrastructure.csproj",
+  "projectFilePath": "/home/apolm01-021/Downloads/inventario/Infrastructure/Infrastructure.csproj",
   "expectedPackageFiles": [
     "/home/apolm01-021/.nuget/packages/microsoft.entityframeworkcore/7.0.9/microsoft.entityframeworkcore.7.0.9.nupkg.sha512",
     "/home/apolm01-021/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.9/microsoft.entityframeworkcore.abstractions.7.0.9.nupkg.sha512",

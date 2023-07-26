@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/apolm01-021/Desktop/inventario/Infrastructure/Infrastructure.csproj": {}
+    "/home/apolm01-021/Downloads/inventario/Infrastructure/Infrastructure.csproj": {}
   },
   "projects": {
-    "/home/apolm01-021/Desktop/inventario/Core/Core.csproj": {
+    "/home/apolm01-021/Downloads/inventario/Core/Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/apolm01-021/Desktop/inventario/Core/Core.csproj",
+        "projectUniqueName": "/home/apolm01-021/Downloads/inventario/Core/Core.csproj",
         "projectName": "Core",
-        "projectPath": "/home/apolm01-021/Desktop/inventario/Core/Core.csproj",
+        "projectPath": "/home/apolm01-021/Downloads/inventario/Core/Core.csproj",
         "packagesPath": "/home/apolm01-021/.nuget/packages/",
-        "outputPath": "/home/apolm01-021/Desktop/inventario/Core/obj/",
+        "outputPath": "/home/apolm01-021/Downloads/inventario/Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/apolm01-021/.nuget/NuGet/NuGet.Config"
@@ -57,14 +57,14 @@
         }
       }
     },
-    "/home/apolm01-021/Desktop/inventario/Infrastructure/Infrastructure.csproj": {
+    "/home/apolm01-021/Downloads/inventario/Infrastructure/Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/apolm01-021/Desktop/inventario/Infrastructure/Infrastructure.csproj",
+        "projectUniqueName": "/home/apolm01-021/Downloads/inventario/Infrastructure/Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "/home/apolm01-021/Desktop/inventario/Infrastructure/Infrastructure.csproj",
+        "projectPath": "/home/apolm01-021/Downloads/inventario/Infrastructure/Infrastructure.csproj",
         "packagesPath": "/home/apolm01-021/.nuget/packages/",
-        "outputPath": "/home/apolm01-021/Desktop/inventario/Infrastructure/obj/",
+        "outputPath": "/home/apolm01-021/Downloads/inventario/Infrastructure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/apolm01-021/.nuget/NuGet/NuGet.Config"
@@ -79,8 +79,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/home/apolm01-021/Desktop/inventario/Core/Core.csproj": {
-                "projectPath": "/home/apolm01-021/Desktop/inventario/Core/Core.csproj"
+              "/home/apolm01-021/Downloads/inventario/Core/Core.csproj": {
+                "projectPath": "/home/apolm01-021/Downloads/inventario/Core/Core.csproj"
               }
             }
           }

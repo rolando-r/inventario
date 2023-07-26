@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dIcXTzrDrPF7qId2C/uZ31LGydhS5thHKP0ETQomBxAJ7dasLzZni0fdhU2FXj4eVzoPz01KreHb9dTA4NQWVw==",
+  "dgSpecHash": "kq4N1NA1Hbs+3tQR5c6wLgoYjG6+cb1NpVNndLV3dn+lhUNR/n5E+kUw2Hn0rKYNOmaZuOtmVAKMTEAH1pOCSA==",
   "success": true,
-  "projectFilePath": "/home/apolm01-021/Desktop/inventario/API/API.csproj",
+  "projectFilePath": "/home/apolm01-021/Downloads/inventario/API/API.csproj",
   "expectedPackageFiles": [
     "/home/apolm01-021/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/home/apolm01-021/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
