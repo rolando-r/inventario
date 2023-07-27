@@ -1,6 +1,6 @@
 # Inventario 🏙️
 
-Project to practice entityFrameworkCore with interfaces, controllers and Unit of Work
+Project to practice entityFrameworkCore with entities, interfaces, controllers, repositories, configurations, unit of Work and more.
 
 ## Skills 🛠
   C#, .NETCore
