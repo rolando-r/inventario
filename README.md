@@ -5,10 +5,6 @@ Project to practice entityFrameworkCore with entities, interfaces, controllers, 
 ## Skills 🛠
   C#, .NETCore
 
-  ## Authors
-
-- [@rolando-r](https://www.github.com/rolando-r)
-
 ## Deployment
 
 To deploy this project run
@@ -50,6 +46,10 @@ Start the server
 ## Support
 
 For support, email roolandoor@gmail.com or join our Slack channel.
+
+## Authors
+
+- [@rolando-r](https://www.github.com/rolando-r)
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rolando-rodriguez-garcia)
